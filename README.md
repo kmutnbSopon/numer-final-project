@@ -1,8 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-- npm install<br>
+## NPM || YARN
+- npm install or yarn add <br>
 - npm start or yarn start<br>
- enjoy :}
+ 
 ## Docker
 - docker-compose up //Build and Run Image <br>
 - docker-compose down //Terminate Image<br>
@@ -11,6 +12,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - download Docker in extension
 - right click on Dockerfile -> Build Image
 - right click on docker-compose up -> compose up 
+
+enjoy : >}
 ## Available Scripts
 
 
