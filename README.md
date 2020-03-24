@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Docker
 - docker-compose up //Build and Run Image <br>
 - docker-compose down //Terminate Image<br>
+
+## If can't run docker your computer
+- download Docker in extension
+- right click on Dockerfile -> Build Image
+- right click on docker-compose up -> compose up 
 ## Available Scripts
 
 
