@@ -2,14 +2,8 @@ version : '3'
 
 services:
   app :
-    container_name: numerical-final
+    container_name: numerical-method
+    restart: always
     build: .
     ports:
       - '80:3000'
-    links:
-      - mongo
-  mongo:
-    container_name: mongo
-    image: testmongo
-    ports:
-      - '27017:27017'
