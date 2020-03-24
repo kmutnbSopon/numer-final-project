@@ -14,9 +14,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - right click on docker-compose up -> compose up 
 
 ## Docker Toolbox
- - download docker toolbox
- window , macOS
- - https://github.com/docker/toolbox/releases
+ - download docker toolbox (window , macOS)
+ - Download Toolbox to open -> https://github.com/docker/toolbox/releases
+ - Go to port 127.0.0.1 <br>
 enjoy : >}
 ## Available Scripts
 
