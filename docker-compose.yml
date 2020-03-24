@@ -4,7 +4,7 @@ services:
   app :
     container_name: numerical-final
     build: .
-    port:
+    ports:
       - '80:3000'
     links:
       - mongo
